@@ -1,6 +1,6 @@
 // Example
 
-var numOne = 25;
+var numOne = 15;
 var numSec = 25;
 
 if (numOne > numSec) {
