@@ -7,3 +7,4 @@ Store the following into variables: number of children, partner's name, geograph
 Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids." where the variables contain text of your choosing.
 
 Output the same text to the console. Hint --> console.log
+
